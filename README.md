@@ -1,26 +1,26 @@
 ![Signal Boost Creative Logo](https://signalboost.co.nz/wp-content/uploads/2021/04/Signal-Boost-Logo-Small.jpg)
 
-# Project Name
+# DNS Forest Products - Website Project
 ### Project Overview
-This is where the project overview goes. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Build a website and rollout the design based on a homepage design and provided assets.** 
+
+Working in conjunction with Chris Ward Creative, we created a new website for DNS Forest Products. The key aims included ease of use, ease of updates, clarity of information, and being fully mobile responsive. It also needed to have a working translation option for three languages.
 
 #### Design Components
-* Component One
-* Component Two
-* Component Three
+* Rollout of full website design based on a sample provided
+* Tailor design toward responsive layouts
 
 #### Technical Components
-* Component One
-* Component Two
-* Component Three
+* WordPress build
+* Performance optimisation
+* Active translation options into three languages
 
 #### Preview Images
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
-![Alt Text](https://signalboost.co.nz/wp-content/uploads/2017/12/website-product-pageWEB.jpg)
+![DNS Forest Products website shown on a tablet](https://signalboost.co.nz/wp-content/uploads/2017/12/DNS-ipadWEB.jpg)
+![DNS Forest Products website shown on a laptop](https://signalboost.co.nz/wp-content/uploads/2017/12/DNS-laptopWEB.jpg)
 
 #### More Information
-For full project information and to see more of my work, please head to [my website](https://signalboost.co.nz)
+For full project information and to see more of my work, please head to [my website](https://signalboost.co.nz/portfolio/website-rollout-build-dns-forest-products/)
 
 #### Contact Me
 If you would like to discuss this project, or if you have another project you'd like to work with me on, please feel free to [contact me.](https://signalboost.co.nz/contact/) 
